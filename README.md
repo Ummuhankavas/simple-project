@@ -1,2 +1,1 @@
-# simple-project
-https://ummuhankavas.github.io/simple-project/
+https://ummuhankavas.github.io/todo_list/
